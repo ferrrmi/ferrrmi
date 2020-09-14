@@ -14,7 +14,7 @@
 <br>
 <p align="left">
 <br>
--- Spotify Playing --
+<h3 align="left">-- Spotify Playing --</h3>
 <br>
 <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" align="center "width="350" />
 </p>
