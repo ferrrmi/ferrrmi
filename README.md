@@ -2,7 +2,8 @@
 <h3 align="center">i love anime, japan culture and japanese girls. Also learning to code something.</h3>
 <p align="center">
 - 📫 How to reach me **ferdytata60@gmail.com**
-
+</p>
+<p align="center">
 - ⚡ Fun fact **i want to be a barista, but how?**
 </p>
 <p align="center">
