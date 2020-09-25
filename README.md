@@ -4,7 +4,7 @@
 - 📫 How to reach me **ferdytata60@gmail.com**
 
 
-- ⚡ Fun fact **i want to be a barista, but how?**
+- ⚡ Fun fact of me! **i want to be a barista, but how?**
 
 <p align="left">
 <a href="https://instagram.com/ferrrmi" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ferrrmi" height="30" width="30" /></a>
