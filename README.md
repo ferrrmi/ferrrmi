@@ -1,5 +1,5 @@
 <h1 align="left">Hello! i'm Ferdy!</h1>
-<h3 align="left">i love anime, japan culture and japanese girls. Also learning to code something.</h3>
+<h3 align="left">i love anime, japan cultures and many more. Also learning to code something.</h3>
 
 - 📫 How to reach me **ferdytata60@gmail.com**
 
