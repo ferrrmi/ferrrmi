@@ -7,9 +7,8 @@
 
 - ⚡ Fun fact of me! **i want to be a barista, but how?**
 
-<p align="left">
-<br>
 ## Spotify
+<p align="left">
 <br>
 <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" align="center "width="350" />
 </p>
