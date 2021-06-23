@@ -15,7 +15,7 @@
 
 ## Contact me
 
-[Facebook](https://facebook.com/ferrrmi) | [Twitter](https://twitter.com/ferrrmi) | [Instagram](https://instagram.com/ferrrmi) |  
+[Facebook](https://facebook.com/ferrrmi) | [Twitter](https://twitter.com/ferrrmi) | [Instagram](https://instagram.com/ferrrmi) | [Linkedin](https://www.linkedin.com/in/ferdymuhammadiqbal)
 
 ## Status
 
