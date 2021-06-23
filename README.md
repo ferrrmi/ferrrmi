@@ -1,4 +1,4 @@
-<h1 align="left">Hello! 👋 i'm Ferdy!</h1>
+## Hello! 👋 i'm Ferdy!
 ![Profile views](https://komarev.com/ghpvc/?username=kakeyrin&color=brightgreen)
 <h3 align="left">i love anime, japan cultures and many more. Also learning to code something.</h3>
 
