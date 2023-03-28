@@ -1,7 +1,6 @@
 # Contact Me!
-<p align="left">
-  💼 [LinkedIn](https://www.linkedin.com/in/john-doe) 
-</p>
+📧 ferdytata60@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/ferdymuhammadiqbal/) 
 
 # Boop Boop!
 <p align="left">
