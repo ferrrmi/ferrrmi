@@ -1,8 +1,6 @@
 # Contact Me!
 <p align="left">
-  <a href="mailto:ferdytata60@gmail.com">Gmail</a>
-  <a> - </a>
-  <a href="https://www.linkedin.com/in/ferdymuhammadiqbal">Linkedin</a>
+  💼 [LinkedIn](https://www.linkedin.com/in/john-doe) 
 </p>
 
 # Boop Boop!
