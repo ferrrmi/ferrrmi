@@ -25,12 +25,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moonxchicken&theme=dark" alt="moonxchicken" /></p>
 
-# Boop Boop!
-<p align="left">
-  <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonxchicken&layout=compact&theme=radical"/></a>
-</p>
-
-# Cute Badge From Holopin!
+<h1 align="center">Cute Badge From Holopin!</h1>
 <p align="center">
   <a href="https://holopin.io/@moonchicken">
     <img align="center" src="https://holopin.io/api/user/board?user=moonchicken"/>
