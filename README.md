@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ferdy Muhammad Iqbal</h1>
+<h1 align="center">Hi 👋, I'm Ferdy</h1>
 <h3 align="center">Experienced Technical Support Engineer with a strong background in Linux and database management. Proficient in analyzing log systems, shell scripting on Ubuntu, and maintaining application deployments. Skilled in creating automation scripts to streamline tasks and improve efficiency.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moonxchicken&label=Profile%20views&color=0e75b6&style=flat" alt="moonxchicken" /> </p>
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/pg_dump" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pg_dump" height="30" width="40" /></a>
+<a href="https://dev.to/ferrrmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ferrrmi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ferdymuhammadiqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferdymuhammadiqbal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ferdytata60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ferdytata60" height="30" width="40" /></a>
 </p>
